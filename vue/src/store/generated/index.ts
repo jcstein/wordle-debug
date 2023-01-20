@@ -1,8 +1,10 @@
 // THIS FILE IS GENERATED AUTOMATICALLY. DO NOT MODIFY.
 
+import WordleWordle from './wordle.wordle'
 
 
 export default { 
+  WordleWordle: load(WordleWordle, 'wordle.wordle'),
   
 }
 
